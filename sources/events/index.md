@@ -28,7 +28,7 @@ list:
     link: https://www.facebook.com/events/149304453158246
   - date: 2020-04-18T09:00:00+0000
     guests: 0
-    location: 
+    location: Online Webinar
     name: Friendly Backends with ktor and Kotlin
     link: https://www.facebook.com/events/279552619731920
   - date: 2020-03-28T11:00:00+0000
