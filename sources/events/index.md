@@ -14,7 +14,7 @@ list:
   - date: '2020-05-08T08:30:00+0000'
     guests: '0'
     location: 'Online event'
-    name: 'TopDevTV-Ep13|Leader có tâm không để Team ở sau 'cái bóng' mình'
+    name: 'TopDevTV-Ep13|Leader có tâm không để Team ở sau cái bóng mình'
     link: 'https://www.facebook.com/events/258653465184356'
   - date: '2020-05-07T11:30:00+0000'
     guests: '0'
