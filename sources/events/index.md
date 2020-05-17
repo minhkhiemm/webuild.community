@@ -1,5 +1,5 @@
 ---
-key: jobs
+key: events
 list:
   - date: 2020-05-14 08:30:00 +0000 UTC
     guests: 0
