@@ -8,7 +8,7 @@ list:
     link: 'https://www.facebook.com/events/590208028518015'
   - date: '2020-05-23T01:30:00+0000'
     guests: '0'
-    location: 'Vincom D'capitale119 Trần Duy Hưng, Hanoi, Vietnam'
+    location: 'Vincom Dcapitale119 Trần Duy Hưng, Hanoi, Vietnam'
     name: 'Advanced Analytics in Digital Banking and Technologies' 
     link: 'https://www.facebook.com/events/489664208634857'
   - date: '2020-05-14T08:30:00+0000'
