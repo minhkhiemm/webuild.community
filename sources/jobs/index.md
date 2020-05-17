@@ -5,7 +5,7 @@ list:
     date: '2020-05-15T04:02:59+0000'
     desc: 'Python Developer'
     isOpened: 'true'
-    linkURL: 'https://api.github.com/repos/awesome-jobs/vietnam/issues/1983'
+    linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1983'
     location: 'Saigon, District 10'
     title: 'Python Developer'
     type: Fulltime
@@ -13,7 +13,7 @@ list:
     date: '2020-05-15T03:53:20+0000'
     desc: 'IT Business Analyst'
     isOpened: 'true'
-    linkURL: 'https://api.github.com/repos/awesome-jobs/vietnam/issues/1982'
+    linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1982'
     location: 'Saigon'
     title: 'IT Business Analyst'
     type: Fulltime
@@ -21,7 +21,7 @@ list:
     date: '2020-05-15T03:53:14+0000'
     desc: 'Senior NodeJS Developer'
     isOpened: 'true'
-    linkURL: 'https://api.github.com/repos/awesome-jobs/vietnam/issues/1981'
+    linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1981'
     location: 'Saigon'
     title: 'Senior NodeJS Developer'
     type: Fulltime
@@ -29,7 +29,7 @@ list:
     date: '2020-05-12T07:38:19+0000'
     desc: 'Senior Ruby on Rails'
     isOpened: 'true'
-    linkURL: 'https://api.github.com/repos/awesome-jobs/vietnam/issues/1979'
+    linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1979'
     location: 'Onsite Singapore'
     title: 'Senior Ruby on Rails'
     type: Fulltime
@@ -37,7 +37,7 @@ list:
     date: '2020-05-12T07:32:49+0000'
     desc: 'PHP Laravel'
     isOpened: 'true'
-    linkURL: 'https://api.github.com/repos/awesome-jobs/vietnam/issues/1978'
+    linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1978'
     location: 'HN'
     title: 'PHP Laravel'
     type: Fulltime
@@ -45,7 +45,7 @@ list:
     date: '2020-05-12T07:16:02+0000'
     desc: 'FULLSTACK NODEJS'
     isOpened: 'true'
-    linkURL: 'https://api.github.com/repos/awesome-jobs/vietnam/issues/1977'
+    linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1977'
     location: 'HCM/HN'
     title: 'FULLSTACK NODEJS'
     type: Fulltime
@@ -53,7 +53,7 @@ list:
     date: '2020-05-08T04:25:30+0000'
     desc: 'Software Embedded Engineer'
     isOpened: 'true'
-    linkURL: 'https://api.github.com/repos/awesome-jobs/vietnam/issues/1976'
+    linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1976'
     location: 'Up to $2k'
     title: 'Software Embedded Engineer'
     type: HCMC
@@ -61,7 +61,7 @@ list:
     date: '2020-05-08T03:47:04+0000'
     desc: 'Python Developer'
     isOpened: 'true'
-    linkURL: 'https://api.github.com/repos/awesome-jobs/vietnam/issues/1975'
+    linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1975'
     location: 'HCM'
     title: 'Python Developer'
     type: Fulltime
@@ -69,7 +69,7 @@ list:
     date: '2020-05-07T09:43:02+0000'
     desc: 'Front End/Javascript Developer'
     isOpened: 'true'
-    linkURL: 'https://api.github.com/repos/awesome-jobs/vietnam/issues/1973'
+    linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1973'
     location: 'HN/HCM'
     title: 'Front End/Javascript Developer'
     type: Fulltime
@@ -77,7 +77,7 @@ list:
     date: '2020-05-05T03:17:32+0000'
     desc: '.NET DEVELOPER'
     isOpened: 'true'
-    linkURL: 'https://api.github.com/repos/awesome-jobs/vietnam/issues/1969'
+    linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1969'
     location: 'HCM'
     title: '.NET DEVELOPER'
     type: Fulltime
