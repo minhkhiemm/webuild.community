@@ -24,7 +24,7 @@ list:
   - date: 2020-04-25T02:00:00+0000
     guests: 0
     location: Online Webinar
-    name: Webinar #04: How To Prepare & Succeed In A Coding Interview
+    name: Webinar 04: How To Prepare & Succeed In A Coding Interview
     link: https://www.facebook.com/events/149304453158246
   - date: 2020-04-18T09:00:00+0000
     guests: 0
@@ -34,7 +34,7 @@ list:
   - date: 2020-03-28T11:00:00+0000
     guests: 0
     location: Zoom Webinar and Live on Youtube
-    name: GDG Webinar #7 Machine Learning with TensorFlow on Google Cloud
+    name: GDG Webinar 7 Machine Learning with TensorFlow on Google Cloud
     link: https://www.facebook.com/events/240623517329815
   - date: 2020-03-07T03:00:00+0000
     guests: 0
