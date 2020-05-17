@@ -1,6 +1,11 @@
 ---
 key: events
 list:
+  - date: '2020-05-23T10:00:00+0000'
+    guests: '0'
+    location: 'Online Event'
+    name: 'Grokking Webinar #05: Engineering Manager 101' 
+    link: 'https://www.facebook.com/events/590208028518015'
   - date: '2020-05-14T08:30:00+0000'
     guests: '0'
     location: 'Online eventhttps://youtu.be/9XsTSlwO7MI'
