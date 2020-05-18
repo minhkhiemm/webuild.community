@@ -6,7 +6,7 @@ list:
     desc: 'Python Developer'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1983'
-    location: 'Others'
+    location: 'HCM'
     title: 'Python Developer'
     type: Fulltime
   - company: 'LARION'
@@ -14,7 +14,7 @@ list:
     desc: 'IT Business Analyst'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1982'
-    location: 'Others'
+    location: 'HCM'
     title: 'IT Business Analyst'
     type: Fulltime
   - company: 'LARION'
@@ -22,7 +22,7 @@ list:
     desc: 'Senior NodeJS Developer'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1981'
-    location: 'Others'
+    location: 'HCM'
     title: 'Senior NodeJS Developer'
     type: Fulltime
   - company: 'Fetch Technology'
