@@ -2,7 +2,7 @@
 key: jobs
 list:
   - company: 'DongA'
-    date: '2020-05-15 04:02:59 +0000 UTC'
+    date: '2020-05-15T04:02:59Z'
     desc: 'Python Developer'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1983'
@@ -10,7 +10,7 @@ list:
     title: 'Python Developer'
     type: Fulltime
   - company: 'LARION'
-    date: '2020-05-15 03:53:20 +0000 UTC'
+    date: '2020-05-15T03:53:20Z'
     desc: 'IT Business Analyst'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1982'
@@ -18,7 +18,7 @@ list:
     title: 'IT Business Analyst'
     type: Fulltime
   - company: 'LARION'
-    date: '2020-05-15 03:53:14 +0000 UTC'
+    date: '2020-05-15T03:53:14Z'
     desc: 'Senior NodeJS Developer'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1981'
@@ -26,7 +26,7 @@ list:
     title: 'Senior NodeJS Developer'
     type: Fulltime
   - company: 'Fetch Technology'
-    date: '2020-05-12 07:38:19 +0000 UTC'
+    date: '2020-05-12T07:38:19Z'
     desc: 'Senior Ruby on Rails'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1979'
@@ -34,7 +34,7 @@ list:
     title: 'Senior Ruby on Rails'
     type: Fulltime
   - company: 'Fetch Technology'
-    date: '2020-05-12 07:32:49 +0000 UTC'
+    date: '2020-05-12T07:32:49Z'
     desc: 'PHP Laravel'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1978'
@@ -42,7 +42,7 @@ list:
     title: 'PHP Laravel'
     type: Fulltime
   - company: 'Fetch Technology'
-    date: '2020-05-12 07:16:02 +0000 UTC'
+    date: '2020-05-12T07:16:02Z'
     desc: 'FULLSTACK NODEJS'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1977'
@@ -50,7 +50,7 @@ list:
     title: 'FULLSTACK NODEJS'
     type: Fulltime
   - company: 'HR1'
-    date: '2020-05-08 04:25:30 +0000 UTC'
+    date: '2020-05-08T04:25:30Z'
     desc: 'Software Embedded Engineer'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1976'
@@ -58,7 +58,7 @@ list:
     title: 'Software Embedded Engineer'
     type: HCMC
   - company: 'rakumo'
-    date: '2020-05-08 03:47:04 +0000 UTC'
+    date: '2020-05-08T03:47:04Z'
     desc: 'Python Developer'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1975'
@@ -66,7 +66,7 @@ list:
     title: 'Python Developer'
     type: Fulltime
   - company: 'Rakuna'
-    date: '2020-05-07 09:43:02 +0000 UTC'
+    date: '2020-05-07T09:43:02Z'
     desc: 'Front End/Javascript Developer'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1973'
@@ -74,7 +74,7 @@ list:
     title: 'Front End/Javascript Developer'
     type: Fulltime
   - company: 'UNIT CORP'
-    date: '2020-05-05 03:17:32 +0000 UTC'
+    date: '2020-05-05T03:17:32Z'
     desc: '.NET DEVELOPER'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1969'
