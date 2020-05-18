@@ -6,7 +6,7 @@ list:
     desc: 'Python Developer'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1983'
-    location: 'Saigon, District 10'
+    location: 'Others'
     title: 'Python Developer'
     type: Fulltime
   - company: 'LARION'
@@ -14,7 +14,7 @@ list:
     desc: 'IT Business Analyst'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1982'
-    location: 'Saigon'
+    location: 'Others'
     title: 'IT Business Analyst'
     type: Fulltime
   - company: 'LARION'
@@ -22,7 +22,7 @@ list:
     desc: 'Senior NodeJS Developer'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1981'
-    location: 'Saigon'
+    location: 'Others'
     title: 'Senior NodeJS Developer'
     type: Fulltime
   - company: 'Fetch Technology'
@@ -30,7 +30,7 @@ list:
     desc: 'Senior Ruby on Rails'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1979'
-    location: 'Onsite Singapore'
+    location: 'Others'
     title: 'Senior Ruby on Rails'
     type: Fulltime
   - company: 'Fetch Technology'
@@ -46,7 +46,7 @@ list:
     desc: 'FULLSTACK NODEJS'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1977'
-    location: 'HCM/HN'
+    location: 'Others'
     title: 'FULLSTACK NODEJS'
     type: Fulltime
   - company: 'HR1'
@@ -54,7 +54,7 @@ list:
     desc: 'Software Embedded Engineer'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1976'
-    location: 'Up to $2k'
+    location: 'Others'
     title: 'Software Embedded Engineer'
     type: HCMC
   - company: 'rakumo'
@@ -70,7 +70,7 @@ list:
     desc: 'Front End/Javascript Developer'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1973'
-    location: 'HN/HCM'
+    location: 'Others'
     title: 'Front End/Javascript Developer'
     type: Fulltime
   - company: 'UNIT CORP'
