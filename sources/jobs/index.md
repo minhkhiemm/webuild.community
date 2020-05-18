@@ -46,7 +46,7 @@ list:
     desc: 'FULLSTACK NODEJS'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1977'
-    location: 'Others'
+    location: 'HCM'
     title: 'FULLSTACK NODEJS'
     type: Fulltime
   - company: 'HR1'
@@ -70,7 +70,7 @@ list:
     desc: 'Front End/Javascript Developer'
     isOpened: 'true'
     linkURL: 'https://github.com/awesome-jobs/vietnam/issues/1973'
-    location: 'Others'
+    location: 'HCM'
     title: 'Front End/Javascript Developer'
     type: Fulltime
   - company: 'UNIT CORP'
